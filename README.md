@@ -49,7 +49,6 @@ This is an AI-powered Health Diagnosis system that allows users to submit their 
 - **Frontend**: HTML, CSS, JavaScript
 - **Machine Learning**: TensorFlow for disease prediction
 - **Backend (optional)**: Node.js / Python Flask / Django
-- **Database**: Supabase (for storing user data and diagnosis results)
 - **Automation**: N8N.io (for AI agent tasks such as diet recommendations)
 - **OCR AI Agent**: Optical Character Recognition for extracting data from medical reports
 - **Hosting**: GitHub Pages / Netlify / platforms
